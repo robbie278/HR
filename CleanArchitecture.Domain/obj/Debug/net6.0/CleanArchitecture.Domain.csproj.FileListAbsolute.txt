@@ -1,0 +1,13 @@
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.deps.json
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\obj\Debug\net6.0\refint\CleanArchitecture.Domain.dll
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.runtimeconfig.json
+C:\Users\rbnas\Downloads\CleanArchitecture-master\CleanArchitecture-master\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.genruntimeconfig.cache
